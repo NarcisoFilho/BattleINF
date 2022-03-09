@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1646689948 source:c:\users\narci\onedrive\documentos\ufrgs\s2\fundamentos da computação gráfica\opengl course\battleinf - 2\main.cpp
+	<iostream>
+	<raylib.h>
+	"definitions.hpp"
+	"classes.hpp"
+	"tanque_player.hpp"
+
+1646689869 c:\users\narci\onedrive\documentos\ufrgs\s2\fundamentos da computação gráfica\opengl course\battleinf - 2\definitions.hpp
+	<raylib.h>
+
+1646689194 c:\users\narci\onedrive\documentos\ufrgs\s2\fundamentos da computação gráfica\opengl course\battleinf - 2\classes.hpp
+	<raylib.h>
+
+1646689305 c:\users\narci\onedrive\documentos\ufrgs\s2\fundamentos da computação gráfica\opengl course\battleinf - 2\tanque_player.hpp
+	"classes.hpp"
+
